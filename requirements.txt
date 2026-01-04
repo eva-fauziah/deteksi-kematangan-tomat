@@ -1,0 +1,6 @@
+gradio==4.44.1
+ultralytics
+Pillow
+pydantic==2.8.2
+pydantic-core==2.20.1
+fastapi==0.112.4
